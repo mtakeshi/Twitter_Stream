@@ -4,7 +4,7 @@ there's a file <takeshi_twitter_tokens.py> used within the code that contains tw
 
 this file contains the following parameters:
 
-'''
+```
 consumer_key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 consumer_secret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 access_token = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx'
